@@ -53,4 +53,10 @@ Today I learn how to change the color of the screen using the composite.fsh file
 - with grayscale at 1 :
 	![Image Alt](https://github.com/okalypto/shader-day-1/blob/34b741099eded7d85797425f9f9b664c491fcc0e/Capture%20d'%C3%A9cran%202026-03-17%20003117.png)
 
-Ah et merde a qui lis ça!
+## day 2
+
+Today I learn where is what, for example, the terrain is separeted with the entities and everything else. With this, I can now change colors on a single part of the game (not on the whole screen like in composite).
+
+I also learn how to make a file give info to others (or some kind), so I can make a function in a file and use it in another one.
+
+I learn how to change the color of the sky, clouds, entities, terrain, and sun (moon two). I also made a grayscale that only acts in terrain, so I can make entities red and land gray.
