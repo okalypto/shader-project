@@ -60,3 +60,21 @@ Today I learn where is what, for example, the terrain is separeted with the enti
 I also learn how to make a file give info to others (or some kind), so I can make a function in a file and use it in another one.
 
 I learn how to change the color of the sky, clouds, entities, terrain, and sun (moon two). I also made a grayscale that only acts in terrain, so I can make entities red and land gray.
+
+- options :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/1a98a7511094317b96e9151cfc283f6268eac8cb/images/Capture%20d'%C3%A9cran%202026-03-19%20000726.png)
+
+- with black sky :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/1a98a7511094317b96e9151cfc283f6268eac8cb/images/Capture%20d'%C3%A9cran%202026-03-19%20000410.png)
+
+- with red sun (and black sky for better look) :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/1a98a7511094317b96e9151cfc283f6268eac8cb/images/Capture%20d'%C3%A9cran%202026-03-19%20000431.png)
+
+- with green clouds :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/1a98a7511094317b96e9151cfc283f6268eac8cb/images/Capture%20d'%C3%A9cran%202026-03-19%20000510.png)
+
+- with red entities :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/1a98a7511094317b96e9151cfc283f6268eac8cb/images/Capture%20d'%C3%A9cran%202026-03-19%20000542.png)
+
+- with terrain grayscale at 1 (and red entities to match my said) :
+	![Image Alt](https://github.com/okalypto/shader-project/blob/1a98a7511094317b96e9151cfc283f6268eac8cb/images/Capture%20d'%C3%A9cran%202026-03-19%20000558.png)
