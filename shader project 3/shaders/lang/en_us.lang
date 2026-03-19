@@ -1,0 +1,2 @@
+option.GRAY_AMOUNT = Gray scale (black & white)
+option.GRAY_AMOUNT.comment = make the colors gray.
